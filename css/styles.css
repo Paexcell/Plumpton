@@ -22,7 +22,8 @@ body {
   }
 .pageimage {
   position: absolute;
-  
+  height:50%;
+  width:70%;
   top: 24%;
   left:0;
 
