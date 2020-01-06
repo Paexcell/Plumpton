@@ -23,6 +23,6 @@ body {
 .pageimage {
   position: absolute;
   width: 100%;
-  padding:240px 0 0 0;
+  top: 16%;
 
 }
