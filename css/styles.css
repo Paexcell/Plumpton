@@ -9,8 +9,6 @@ body {
   left: 46%;
   top: 4%;
   height: 20%;
-  
-
 }
 
 h1 {
@@ -48,7 +46,6 @@ h1 {
 .top-container h3 {
   font-family: lato;
   font-size: 36px;
-  font-family: lato;
   color: #fff;
   position: absolute;
   z-index: 999;
@@ -73,14 +70,10 @@ h1 {
   width: 60%; /* Set the width of the positioned div */
 }
 
-.top-container .pageimage {
+.pageimage {
   position: absolute;
   width: 100%;
-
-  padding-left:0px;
-  padding-right:0px;
-  padding-top:240px;
-  padding-bottom:0px;
+  padding:240px 0 0 0;
 
 }
 
@@ -91,7 +84,7 @@ h1 {
   width: 100%;
   position: inline;
   z-index: 2;
-  background-color; #0c9463;
+  background-color: #0c9463;
   background-size: cover;
   background-position: center center;
   min-height: 635px;
@@ -180,3 +173,4 @@ h4 {
     margin: 0 auto;
     margin-bottom: 20px;
   }
+}
